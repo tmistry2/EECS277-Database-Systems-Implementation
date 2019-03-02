@@ -1,0 +1,733 @@
+catalog.sqlite is opened successfully.
+-------------------------Printing Catalog-------------------------------------------------------------------
+
+File was opened
+CREATE TABLE T_0 OK
+File was opened
+CREATE TABLE T_1 OK
+File was opened
+CREATE TABLE T_2 OK
+File was opened
+CREATE TABLE T_3 OK
+File was opened
+CREATE TABLE T_4 OK
+File was opened
+CREATE TABLE T_5 OK
+File was opened
+CREATE TABLE T_6 OK
+File was opened
+CREATE TABLE T_7 OK
+File was opened
+CREATE TABLE T_8 OK
+File was opened
+CREATE TABLE T_9 OK
+File was opened
+CREATE TABLE T_10 OK
+File was opened
+CREATE TABLE T_11 OK
+File was opened
+CREATE TABLE T_12 OK
+File was opened
+CREATE TABLE T_13 OK
+File was opened
+CREATE TABLE T_14 OK
+File was opened
+CREATE TABLE T_15 OK
+File was opened
+CREATE TABLE T_16 OK
+File was opened
+CREATE TABLE T_17 OK
+File was opened
+CREATE TABLE T_18 OK
+File was opened
+CREATE TABLE T_19 OK
+File was opened
+CREATE TABLE T_20 OK
+File was opened
+CREATE TABLE T_21 OK
+File was opened
+CREATE TABLE T_22 OK
+File was opened
+CREATE TABLE T_23 OK
+File was opened
+CREATE TABLE T_24 OK
+File was opened
+CREATE TABLE T_25 OK
+File was opened
+CREATE TABLE T_26 OK
+File was opened
+CREATE TABLE T_27 OK
+File was opened
+CREATE TABLE T_28 OK
+File was opened
+CREATE TABLE T_29 OK
+File was opened
+CREATE TABLE T_30 OK
+File was opened
+CREATE TABLE T_31 OK
+File was opened
+CREATE TABLE T_32 OK
+File was opened
+CREATE TABLE T_33 OK
+File was opened
+CREATE TABLE T_34 OK
+File was opened
+CREATE TABLE T_35 OK
+File was opened
+CREATE TABLE T_36 OK
+File was opened
+CREATE TABLE T_37 OK
+File was opened
+CREATE TABLE T_38 OK
+File was opened
+CREATE TABLE T_39 OK
+File was opened
+CREATE TABLE T_40 OK
+File was opened
+CREATE TABLE T_41 OK
+File was opened
+CREATE TABLE T_42 OK
+File was opened
+CREATE TABLE T_43 OK
+File was opened
+CREATE TABLE T_44 OK
+File was opened
+CREATE TABLE T_45 OK
+File was opened
+CREATE TABLE T_46 OK
+File was opened
+CREATE TABLE T_47 OK
+File was opened
+CREATE TABLE T_48 OK
+File was opened
+CREATE TABLE T_49 OK
+File was opened
+CREATE TABLE T_50 OK
+File was opened
+CREATE TABLE T_51 OK
+File was opened
+CREATE TABLE T_52 OK
+File was opened
+CREATE TABLE T_53 OK
+File was opened
+CREATE TABLE T_54 OK
+File was opened
+CREATE TABLE T_55 OK
+File was opened
+CREATE TABLE T_56 OK
+File was opened
+CREATE TABLE T_57 OK
+File was opened
+CREATE TABLE T_58 OK
+File was opened
+CREATE TABLE T_59 OK
+File was opened
+CREATE TABLE T_60 OK
+File was opened
+CREATE TABLE T_61 OK
+File was opened
+CREATE TABLE T_62 OK
+File was opened
+CREATE TABLE T_63 OK
+File was opened
+CREATE TABLE T_64 OK
+File was opened
+CREATE TABLE T_65 OK
+File was opened
+CREATE TABLE T_66 OK
+File was opened
+CREATE TABLE T_67 OK
+File was opened
+CREATE TABLE T_68 OK
+File was opened
+CREATE TABLE T_69 OK
+File was opened
+CREATE TABLE T_70 OK
+File was opened
+CREATE TABLE T_71 OK
+File was opened
+CREATE TABLE T_72 OK
+File was opened
+CREATE TABLE T_73 OK
+File was opened
+CREATE TABLE T_74 OK
+File was opened
+CREATE TABLE T_75 OK
+File was opened
+CREATE TABLE T_76 OK
+File was opened
+CREATE TABLE T_77 OK
+File was opened
+CREATE TABLE T_78 OK
+File was opened
+CREATE TABLE T_79 OK
+File was opened
+CREATE TABLE T_80 OK
+File was opened
+CREATE TABLE T_81 OK
+File was opened
+CREATE TABLE T_82 OK
+File was opened
+CREATE TABLE T_83 OK
+File was opened
+CREATE TABLE T_84 OK
+File was opened
+CREATE TABLE T_85 OK
+File was opened
+CREATE TABLE T_86 OK
+File was opened
+CREATE TABLE T_87 OK
+File was opened
+CREATE TABLE T_88 OK
+File was opened
+CREATE TABLE T_89 OK
+File was opened
+CREATE TABLE T_90 OK
+File was opened
+CREATE TABLE T_91 OK
+File was opened
+CREATE TABLE T_92 OK
+File was opened
+CREATE TABLE T_93 OK
+File was opened
+CREATE TABLE T_94 OK
+File was opened
+CREATE TABLE T_95 OK
+File was opened
+CREATE TABLE T_96 OK
+File was opened
+CREATE TABLE T_97 OK
+File was opened
+CREATE TABLE T_98 OK
+File was opened
+CREATE TABLE T_99 OK
+File was opened
+CREATE TABLE T_100 OK
+File was opened
+CREATE TABLE T_101 OK
+File was opened
+CREATE TABLE T_102 OK
+File was opened
+CREATE TABLE T_103 OK
+File was opened
+CREATE TABLE T_104 OK
+File was opened
+CREATE TABLE T_105 OK
+File was opened
+CREATE TABLE T_106 OK
+File was opened
+CREATE TABLE T_107 OK
+File was opened
+CREATE TABLE T_108 OK
+File was opened
+CREATE TABLE T_109 OK
+File was opened
+CREATE TABLE T_110 OK
+File was opened
+CREATE TABLE T_111 OK
+File was opened
+CREATE TABLE T_112 OK
+File was opened
+CREATE TABLE T_113 OK
+File was opened
+CREATE TABLE T_114 OK
+File was opened
+CREATE TABLE T_115 OK
+File was opened
+CREATE TABLE T_116 OK
+File was opened
+CREATE TABLE T_117 OK
+File was opened
+CREATE TABLE T_118 OK
+File was opened
+CREATE TABLE T_119 OK
+File was opened
+CREATE TABLE T_120 OK
+File was opened
+CREATE TABLE T_121 OK
+File was opened
+CREATE TABLE T_122 OK
+File was opened
+CREATE TABLE T_123 OK
+File was opened
+CREATE TABLE T_124 OK
+File was opened
+CREATE TABLE T_125 OK
+File was opened
+CREATE TABLE T_126 OK
+File was opened
+CREATE TABLE T_127 OK
+File was opened
+CREATE TABLE T_128 OK
+File was opened
+CREATE TABLE T_129 OK
+File was opened
+CREATE TABLE T_130 OK
+File was opened
+CREATE TABLE T_131 OK
+File was opened
+CREATE TABLE T_132 OK
+File was opened
+CREATE TABLE T_133 OK
+File was opened
+CREATE TABLE T_134 OK
+File was opened
+CREATE TABLE T_135 OK
+File was opened
+CREATE TABLE T_136 OK
+File was opened
+CREATE TABLE T_137 OK
+File was opened
+CREATE TABLE T_138 OK
+File was opened
+CREATE TABLE T_139 OK
+File was opened
+CREATE TABLE T_140 OK
+File was opened
+CREATE TABLE T_141 OK
+File was opened
+CREATE TABLE T_142 OK
+File was opened
+CREATE TABLE T_143 OK
+File was opened
+CREATE TABLE T_144 OK
+File was opened
+CREATE TABLE T_145 OK
+File was opened
+CREATE TABLE T_146 OK
+File was opened
+CREATE TABLE T_147 OK
+File was opened
+CREATE TABLE T_148 OK
+File was opened
+CREATE TABLE T_149 OK
+File was opened
+CREATE TABLE T_150 OK
+File was opened
+CREATE TABLE T_151 OK
+File was opened
+CREATE TABLE T_152 OK
+File was opened
+CREATE TABLE T_153 OK
+File was opened
+CREATE TABLE T_154 OK
+File was opened
+CREATE TABLE T_155 OK
+File was opened
+CREATE TABLE T_156 OK
+File was opened
+CREATE TABLE T_157 OK
+File was opened
+CREATE TABLE T_158 OK
+File was opened
+CREATE TABLE T_159 OK
+File was opened
+CREATE TABLE T_160 OK
+File was opened
+CREATE TABLE T_161 OK
+File was opened
+CREATE TABLE T_162 OK
+File was opened
+CREATE TABLE T_163 OK
+File was opened
+CREATE TABLE T_164 OK
+File was opened
+CREATE TABLE T_165 OK
+File was opened
+CREATE TABLE T_166 OK
+File was opened
+CREATE TABLE T_167 OK
+File was opened
+CREATE TABLE T_168 OK
+File was opened
+CREATE TABLE T_169 OK
+File was opened
+CREATE TABLE T_170 OK
+File was opened
+CREATE TABLE T_171 OK
+File was opened
+CREATE TABLE T_172 OK
+File was opened
+CREATE TABLE T_173 OK
+File was opened
+CREATE TABLE T_174 OK
+File was opened
+CREATE TABLE T_175 OK
+File was opened
+CREATE TABLE T_176 OK
+File was opened
+CREATE TABLE T_177 OK
+File was opened
+CREATE TABLE T_178 OK
+File was opened
+CREATE TABLE T_179 OK
+File was opened
+CREATE TABLE T_180 OK
+File was opened
+CREATE TABLE T_181 OK
+File was opened
+CREATE TABLE T_182 OK
+File was opened
+CREATE TABLE T_183 OK
+File was opened
+CREATE TABLE T_184 OK
+File was opened
+CREATE TABLE T_185 OK
+File was opened
+CREATE TABLE T_186 OK
+File was opened
+CREATE TABLE T_187 OK
+File was opened
+CREATE TABLE T_188 OK
+File was opened
+CREATE TABLE T_189 OK
+File was opened
+CREATE TABLE T_190 OK
+File was opened
+CREATE TABLE T_191 OK
+File was opened
+CREATE TABLE T_192 OK
+File was opened
+CREATE TABLE T_193 OK
+File was opened
+CREATE TABLE T_194 OK
+File was opened
+CREATE TABLE T_195 OK
+File was opened
+CREATE TABLE T_196 OK
+File was opened
+CREATE TABLE T_197 OK
+File was opened
+CREATE TABLE T_198 OK
+File was opened
+CREATE TABLE T_199 OK
+File was opened
+CREATE TABLE T_200 OK
+File was opened
+CREATE TABLE T_201 OK
+File was opened
+CREATE TABLE T_202 OK
+File was opened
+CREATE TABLE T_203 OK
+File was opened
+CREATE TABLE T_204 OK
+File was opened
+CREATE TABLE T_205 OK
+File was opened
+CREATE TABLE T_206 OK
+File was opened
+CREATE TABLE T_207 OK
+File was opened
+CREATE TABLE T_208 OK
+File was opened
+CREATE TABLE T_209 OK
+File was opened
+CREATE TABLE T_210 OK
+File was opened
+CREATE TABLE T_211 OK
+File was opened
+CREATE TABLE T_212 OK
+File was opened
+CREATE TABLE T_213 OK
+File was opened
+CREATE TABLE T_214 OK
+File was opened
+CREATE TABLE T_215 OK
+File was opened
+CREATE TABLE T_216 OK
+File was opened
+CREATE TABLE T_217 OK
+File was opened
+CREATE TABLE T_218 OK
+File was opened
+CREATE TABLE T_219 OK
+File was opened
+CREATE TABLE T_220 OK
+File was opened
+CREATE TABLE T_221 OK
+File was opened
+CREATE TABLE T_222 OK
+File was opened
+CREATE TABLE T_223 OK
+File was opened
+CREATE TABLE T_224 OK
+File was opened
+CREATE TABLE T_225 OK
+File was opened
+CREATE TABLE T_226 OK
+File was opened
+CREATE TABLE T_227 OK
+File was opened
+CREATE TABLE T_228 OK
+File was opened
+CREATE TABLE T_229 OK
+File was opened
+CREATE TABLE T_230 OK
+File was opened
+CREATE TABLE T_231 OK
+File was opened
+CREATE TABLE T_232 OK
+File was opened
+CREATE TABLE T_233 OK
+File was opened
+CREATE TABLE T_234 OK
+File was opened
+CREATE TABLE T_235 OK
+File was opened
+CREATE TABLE T_236 OK
+File was opened
+CREATE TABLE T_237 OK
+File was opened
+CREATE TABLE T_238 OK
+File was opened
+CREATE TABLE T_239 OK
+File was opened
+CREATE TABLE T_240 OK
+File was opened
+CREATE TABLE T_241 OK
+File was opened
+CREATE TABLE T_242 OK
+File was opened
+CREATE TABLE T_243 OK
+File was opened
+CREATE TABLE T_244 OK
+File was opened
+CREATE TABLE T_245 OK
+File was opened
+CREATE TABLE T_246 OK
+File was opened
+CREATE TABLE T_247 OK
+File was opened
+CREATE TABLE T_248 OK
+File was opened
+CREATE TABLE T_249 OK
+File was opened
+CREATE TABLE T_250 OK
+File was opened
+CREATE TABLE T_251 OK
+File was opened
+CREATE TABLE T_252 OK
+File was opened
+CREATE TABLE T_253 OK
+File was opened
+CREATE TABLE T_254 OK
+File was opened
+CREATE TABLE T_255 OK
+File was opened
+CREATE TABLE T_256 OK
+File was opened
+CREATE TABLE T_257 OK
+File was opened
+CREATE TABLE T_258 OK
+File was opened
+CREATE TABLE T_259 OK
+File was opened
+CREATE TABLE T_260 OK
+File was opened
+CREATE TABLE T_261 OK
+File was opened
+CREATE TABLE T_262 OK
+File was opened
+CREATE TABLE T_263 OK
+File was opened
+CREATE TABLE T_264 OK
+File was opened
+CREATE TABLE T_265 OK
+File was opened
+CREATE TABLE T_266 OK
+File was opened
+CREATE TABLE T_267 OK
+File was opened
+CREATE TABLE T_268 OK
+File was opened
+CREATE TABLE T_269 OK
+File was opened
+CREATE TABLE T_270 OK
+File was opened
+CREATE TABLE T_271 OK
+File was opened
+CREATE TABLE T_272 OK
+File was opened
+CREATE TABLE T_273 OK
+File was opened
+CREATE TABLE T_274 OK
+File was opened
+CREATE TABLE T_275 OK
+File was opened
+CREATE TABLE T_276 OK
+File was opened
+CREATE TABLE T_277 OK
+File was opened
+CREATE TABLE T_278 OK
+File was opened
+CREATE TABLE T_279 OK
+File was opened
+CREATE TABLE T_280 OK
+File was opened
+CREATE TABLE T_281 OK
+File was opened
+CREATE TABLE T_282 OK
+File was opened
+CREATE TABLE T_283 OK
+File was opened
+CREATE TABLE T_284 OK
+File was opened
+CREATE TABLE T_285 OK
+File was opened
+CREATE TABLE T_286 OK
+File was opened
+CREATE TABLE T_287 OK
+File was opened
+CREATE TABLE T_288 OK
+File was opened
+CREATE TABLE T_289 OK
+File was opened
+CREATE TABLE T_290 OK
+File was opened
+CREATE TABLE T_291 OK
+File was opened
+CREATE TABLE T_292 OK
+File was opened
+CREATE TABLE T_293 OK
+File was opened
+CREATE TABLE T_294 OK
+File was opened
+CREATE TABLE T_295 OK
+File was opened
+CREATE TABLE T_296 OK
+File was opened
+CREATE TABLE T_297 OK
+File was opened
+CREATE TABLE T_298 OK
+File was opened
+CREATE TABLE T_299 OK
+File was opened
+CREATE TABLE T_300 OK
+File was opened
+CREATE TABLE T_301 OK
+File was opened
+CREATE TABLE T_302 OK
+File was opened
+CREATE TABLE T_303 OK
+File was opened
+CREATE TABLE T_304 OK
+File was opened
+CREATE TABLE T_305 OK
+File was opened
+CREATE TABLE T_306 OK
+File was opened
+CREATE TABLE T_307 OK
+File was opened
+CREATE TABLE T_308 OK
+File was opened
+CREATE TABLE T_309 OK
+File was opened
+CREATE TABLE T_310 OK
+File was opened
+CREATE TABLE T_311 OK
+File was opened
+CREATE TABLE T_312 OK
+File was opened
+CREATE TABLE T_313 OK
+File was opened
+CREATE TABLE T_314 OK
+File was opened
+CREATE TABLE T_315 OK
+File was opened
+CREATE TABLE T_316 OK
+File was opened
+CREATE TABLE T_317 OK
+File was opened
+CREATE TABLE T_318 OK
+File was opened
+CREATE TABLE T_319 OK
+File was opened
+CREATE TABLE T_320 OK
+File was opened
+CREATE TABLE T_321 OK
+File was opened
+CREATE TABLE T_322 OK
+File was opened
+CREATE TABLE T_323 OK
+File was opened
+CREATE TABLE T_324 OK
+File was opened
+CREATE TABLE T_325 OK
+File was opened
+CREATE TABLE T_326 OK
+File was opened
+CREATE TABLE T_327 OK
+File was opened
+CREATE TABLE T_328 OK
+File was opened
+CREATE TABLE T_329 OK
+File was opened
+CREATE TABLE T_330 OK
+File was opened
+CREATE TABLE T_331 OK
+File was opened
+CREATE TABLE T_332 OK
+File was opened
+CREATE TABLE T_333 OK
+File was opened
+CREATE TABLE T_334 OK
+File was opened
+CREATE TABLE T_335 OK
+File was opened
+CREATE TABLE T_336 OK
+File was opened
+CREATE TABLE T_337 OK
+File was opened
+CREATE TABLE T_338 OK
+File was opened
+CREATE TABLE T_339 OK
+File was opened
+CREATE TABLE T_340 OK
+File was opened
+CREATE TABLE T_341 OK
+File was opened
+CREATE TABLE T_342 OK
+File was opened
+CREATE TABLE T_343 OK
+File was opened
+CREATE TABLE T_344 OK
+File was opened
+CREATE TABLE T_345 OK
+File was opened
+CREATE TABLE T_346 OK
+File was opened
+CREATE TABLE T_347 OK
+File was opened
+CREATE TABLE T_348 OK
+File was opened
+CREATE TABLE T_349 OK
+File was opened
+CREATE TABLE T_350 OK
+File was opened
+CREATE TABLE T_351 OK
+File was opened
+CREATE TABLE T_352 OK
+File was opened
+CREATE TABLE T_353 OK
+File was opened
+CREATE TABLE T_354 OK
+File was opened
+CREATE TABLE T_355 OK
+File was opened
+CREATE TABLE T_356 OK
+File was opened
+CREATE TABLE T_357 OK
+File was opened
+CREATE TABLE T_358 OK
+File was opened
+CREATE TABLE T_359 OK
+File was opened
+CREATE TABLE T_360 OK
+File was opened
+CREATE TABLE T_361 OK
+File was opened
+CREATE TABLE T_362 OK
+File was opened
+CREATE TABLE T_363 OK
+File was opened
+CREATE TABLE T_364 OK
